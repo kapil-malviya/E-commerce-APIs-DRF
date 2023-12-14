@@ -86,12 +86,12 @@ This document provides an overview of the E-Commerce API built using Django Rest
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kapil-malviya/e-commerce-api.git
+   git clone https://github.com/kapil-malviya/E-commerce-APIs-DRF.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd e-commerce-api
+   cd E-commerce-APIs-DRF
    ```
 
 3. Install dependencies:
