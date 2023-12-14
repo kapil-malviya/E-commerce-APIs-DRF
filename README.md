@@ -7,9 +7,10 @@ This document provides an overview of the E-Commerce API built using Django Rest
 2. [API Endpoints](#api-endpoints)
 3. [Validations](#validations)
 4. [Example Payload for any API](#example-payload-for-any-api)
-5. [Getting Started](#getting-started)
-6. [Installation](#installation)
-7. [Usage](#usage)
+5. [Requirements](#requirements)
+6. [Getting Started](#getting-started)
+7. [Installation](#installation)
+8. [Usage](#usage)
 
 
 ## Database Structure
@@ -82,7 +83,33 @@ Example Payload for creating customer
 
 ```
 
+## Requirements
+
+Ensure your system meets the following requirements before setting up the E-Commerce API:
+
+- Python 3.10+
+- pip
+
+Verify installed versions by running following commands:
+```bash
+python3 --version
+pip3 --version
+```
+
+
 ## Getting Started
+
+### Creating a Virtual Environment
+
+It's recommended to use a virtual environment to isolate project dependencies. Run the following commands:
+
+```bash
+# Install virtual environment
+pip install virtualenv
+
+# Activate the virtual environment
+source venv/bin/activate
+```
 
 ### Installation
 
