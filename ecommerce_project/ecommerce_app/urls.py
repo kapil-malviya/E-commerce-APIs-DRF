@@ -3,7 +3,7 @@ from django.urls import path
 
 # Import views from the same Django app (ecommerce_app)
 from .views import CustomerList, CustomerDetail, Product, OrderList, OrderDetail, OrderByProduct, OrderByCustomer
-
+ 
 
 # Define URL patterns for different views
 
