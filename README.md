@@ -112,5 +112,5 @@ Run the development server:
 python3 manage.py runserver
 ```
 
-Access the API at [http://localhost:8000/api/](http://localhost:8000/api/)
+Access the API at [http://localhost:8000/api/](http://localhost:8000/api/)          
 For testing various APIS refer [API Endpoints](#api-endpoints)
