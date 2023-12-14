@@ -5,7 +5,7 @@ from django.core.validators import MinValueValidator, MaxValueValidator
 from rest_framework import validators
 from .models import Customer, Product, Order, OrderItem
 from django.utils import timezone
-
+ 
 
 # Serializer for the Customer model
 class CustomerSerializer(serializers.ModelSerializer):
