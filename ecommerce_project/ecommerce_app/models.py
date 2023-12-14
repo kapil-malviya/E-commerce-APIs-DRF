@@ -3,7 +3,7 @@
 from django.db import models
 from django.db.models import F
 
-
+ 
 # Customer Model
 class Customer(models.Model):
 	# Fields for the Customer model
