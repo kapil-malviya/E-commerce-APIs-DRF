@@ -71,6 +71,8 @@ This document provides an overview of the E-Commerce API built using Django Rest
 
 ## Example Payload for any API
 
+Example Payload for creating customer
+
 ```json
 {
   "name": "Customer Name",
