@@ -8,7 +8,6 @@ from .serializers import CustomerSerializer, ProductSerializer, OrderItemSeriali
 from django.shortcuts import get_object_or_404
 
 
-
 # Define class for listing and creating customers
 class CustomerList(APIView):
     def get(self, request):
