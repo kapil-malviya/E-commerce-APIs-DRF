@@ -9,9 +9,9 @@ This document provides an overview of the E-Commerce API built using Django Rest
 4. [Example Payload for any API](#example-payload-for-any-api)
 5. [Requirements](#requirements)
 6. [Getting Started](#getting-started)
-7. [Installation](#installation)
-8. [Usage](#usage)
-
+   - [Creating a Virtual Environment](#creating-a-virtual-environment)
+   - [Installation](#installation)
+   - [Usage](#usage)
 
 ## Database Structure
 
